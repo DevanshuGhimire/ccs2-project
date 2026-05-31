@@ -2,3 +2,6 @@ go to https://data.mendeley.com/datasets/mf8cdvzjr7/1 and download the data_cmu_
 the dataset is too big to upload so I gave tha link to download it
 
 The preview is not working but you can download the raw files and its working fine
+
+I have also added pdf version for preview
+

@@ -1,2 +1,4 @@
 go to https://data.mendeley.com/datasets/mf8cdvzjr7/1 and download the data_cmu_mosei.pkl dataset and keep the code and dataset in same folder.
 the dataset is too big to upload so I gave tha link to download it
+
+The preview is not working but you can download the raw files and its working fine
